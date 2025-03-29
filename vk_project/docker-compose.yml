@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  bot:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - MATTERMOST_API_URL=http://mattermost.example.com/api/v4
+      - MATTERMOST_BOT_TOKEN=your_bot_token
+    depends_on:
+      - tarantool
+
+  tarantool:
+    image: tarantool/tarantool:2.10
+    ports:
+      - "3301:3301"

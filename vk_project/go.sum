@@ -1,0 +1,4 @@
+github.com/mattermost/mattermost-server/v5 v5.33.0 h1:+QTx5j4Fg3i4eJt3ZdJ8HgAeXAhvsVajdXvMjX2nTHg=
+github.com/mattermost/mattermost-server/v5 v5.33.0/go.mod h1:qWzCRt0ww6dFTfEGoF7k+K5UzjdtIuwNl6TZfzfOq3g=
+github.com/tarantool/go-tarantool v2.0.0 h1:J6N1eqBfOG8VeLhS49tX7R+Y2KMv/MlmXbYc35qAOUo=
+github.com/tarantool/go-tarantool v2.0.0/go.mod h1:19cTy9zNlPrhfPLzq2YYZ/mcFi5c6YWklsT4cksnGrw=
