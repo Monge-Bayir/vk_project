@@ -1,4 +1,4 @@
-https://github.com/Monge-Bayir/
+https://github.com/Monge-Bayir/vk_project
 
 go 1.18
 
